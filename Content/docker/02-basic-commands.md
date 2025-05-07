@@ -113,7 +113,7 @@ docker images
 
 - `docker pull`: Downloads a Docker image from a registry (e.g., Docker Hub).
   
-  ``bash 
+  ```bash 
   docker pull <image_name> 
   ```
 
