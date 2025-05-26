@@ -1,0 +1,2 @@
+# Istio bash script
+
